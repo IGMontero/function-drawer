@@ -11,3 +11,14 @@ canvas {
   width: 100%;
   height: 100%;
 }
+
+.func-helper {
+  position: absolute;
+  bottom: 6rem;
+  left: 5rem;
+}
+
+#func-input {
+  height: 1.3rem;
+  font-size: 1rem;
+}
